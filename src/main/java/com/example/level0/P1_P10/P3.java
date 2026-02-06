@@ -1,4 +1,4 @@
-package com.example.level0;
+package com.example.level0.P1_P10;
 
 /*
 정수 num1과 num2가 매개변수로 주어집니다.
